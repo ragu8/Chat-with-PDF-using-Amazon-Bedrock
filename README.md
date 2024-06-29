@@ -30,7 +30,7 @@
 
 
 ## Architecture
-![image info](./3.png)
+![image info](./docs/3.png)
 
 ## ADMIN Application:
     - Build Admin Web application where AdminUser can upload the pdf.
